@@ -46,6 +46,8 @@ python tdata_to_session.py "C:/Users/you/AppData/Roaming/Telegram Desktop/tdata"
 аккаунтами - в мини-приложении есть более широкий набор модулей
 (названия - как в самом интерфейсе):
 
+![TG Multitool - интерфейс мини-приложения](assets/screenshot.jpg)
+
 | Модуль | Что делает |
 |---|---|
 | Создание сессии | То же, что `session_login.py`, но для всех своих аккаунтов сразу, из интерфейса |
