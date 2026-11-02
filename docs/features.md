@@ -37,3 +37,4 @@
 Отдельные темы разобраны подробнее, с примерами кода на Telethon:
 
 - [Что такое спам-блок в Telegram и как его распознать](telegram-spamblock-diagnostics.md)
+- [Как получить список участников канала через Telegram API](telegram-channel-participants-api.md)
