@@ -39,4 +39,4 @@
 - [Что такое спам-блок в Telegram и как его распознать](telegram-spamblock-diagnostics.md)
 - [Как устроены сессии Telegram и зачем их хранить правильно](session-management.md)
 - [Как защитить Telegram-аккаунт от чужих сессий: общий принцип](account-protection-telegram.md)
-- [Лимиты Telegram на сообщения: как устроены ограничения при рассылках](telegram-messaging-limits.md)
+- [Лимиты на инвайты в Telegram: как устроен InviteToChannelRequest](telegram-invite-limits.md)
