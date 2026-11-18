@@ -40,3 +40,4 @@
 - [Как устроены сессии Telegram и зачем их хранить правильно](session-management.md)
 - [Как защитить Telegram-аккаунт от чужих сессий: общий принцип](account-protection-telegram.md)
 - [Лимиты на инвайты в Telegram: как устроен InviteToChannelRequest](telegram-invite-limits.md)
+- [Как получить список участников канала через Telegram API](telegram-channel-participants-api.md)
